@@ -1,0 +1,4 @@
+data= [
+    ['Alice',30,'London'],
+    ['Bob',25,'Paris'],
+    ['Charlie',35,'Berlin']
